@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.5.6)
+  - lottie-ios (3.1.8)
+  - Popover (1.3.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SwiftyJSON (5.0.0)
+  - ZegoExpressEngine/Video (2.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.0)
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - Popover
+  - SDWebImage
+  - SwiftyJSON
+  - ZegoExpressEngine/Video
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - Popover
+    - SDWebImage
+    - SwiftyJSON
+    - ZegoExpressEngine
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  Popover: 10e1d9528f81d9504df984b7b3f491292bc1822d
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  ZegoExpressEngine: f6613fb4f765f82b81b76bd27152a828d4bfea73
+
+PODFILE CHECKSUM: f847c7b0c5295eca45afc7626307ea7235447ab0
+
+COCOAPODS: 1.10.1
